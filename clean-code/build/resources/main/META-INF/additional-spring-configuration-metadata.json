@@ -1,0 +1,18 @@
+{
+  "properties": [
+    {
+      "name": "jwt.token.validity",
+      "type": "java.lang.String",
+      "description": "Description for jwt.token.validity."
+    },
+    {
+      "name": "jwt.token.secret",
+      "type": "java.lang.String",
+      "description": "Description for jwt.token.secret."
+    },
+    {
+      "name": "jwt.token.secret",
+      "type": "java.lang.String",
+      "description": "Description for jwt.token.secret."
+    }
+  ] }
